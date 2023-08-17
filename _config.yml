@@ -20,7 +20,7 @@ timezone:
 
 title: Syed Razauddin Shahlal # the main title
 
-tagline: Mechanical Engineer/Data Scientist # it will display as the sub-title
+tagline: Data Scientist # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
